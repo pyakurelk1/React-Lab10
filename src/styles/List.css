@@ -1,0 +1,10 @@
+.list-group {
+  margin-bottom: 80px;
+}
+
+.list-group-item {
+  border: none;
+  background-color: royalblue;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
